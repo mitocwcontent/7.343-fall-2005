@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "7c3a4aa6-d700-9d0c-f6a1-fbcf4883cbae",
+  "instructors": {
+    "content": [
+      "f3b917a4-0f26-3a83-b224-c5f8576c1bcf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "58d9ad2a-e8a2-88ad-c51e-0969f91d53b9",
+    "website": "7-343-a-love-hate-relationship-cholesterol-in-health-and-disease-fall-2005"
+  },
+  "course_title": "A Love-Hate Relationship: Cholesterol in Health and Disease",
+  "course_description": "In this class, we will examine cholesterol's role in the cell and in the body as a whole, from its function as a structural component of the membrane to its function in signaling. We will discuss mechanisms of cholesterol sensing, mechanisms of feedback regulation in cells, cholesterol in the brain, cholesterol in the circulation, 'good cholesterol' and 'bad cholesterol,' cholesterol-related human disorders, and the drugs that deal with some of these disorders.\n\nThis course is one of many\u00a0[Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars)\u00a0offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the\u00a0Advanced Undergraduate Seminars\u00a0are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.343",
+  "course_image_thumbnail": {
+    "content": "238e0ad3-17df-f5bd-2e26-214412c777bf",
+    "website": "7-343-a-love-hate-relationship-cholesterol-in-health-and-disease-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "b7e03cca-7934-429d-a2f6-375a739d158e",
+  "title": "Course Metadata"
+}
